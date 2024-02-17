@@ -1,0 +1,5 @@
+document
+ruby
+super special
+a
+This is
