@@ -5,4 +5,4 @@ numbers.each do |i|
 end
 
 numbers.map!{|x| x * 3}
-puts numbers
+puts "#{numbers}"
